@@ -1,4 +1,5 @@
 --[[ An implementation of SGD-HD and SGD-Nesterov-HD
+Atilim Gunes Baydin, University of Oxford, March 2017
 
 ARGS:
 

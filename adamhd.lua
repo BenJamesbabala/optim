@@ -1,4 +1,5 @@
 --[[ An implementation of Adam-HD
+Atilim Gunes Baydin, University of Oxford, March 2017
 
 ARGS:
 
