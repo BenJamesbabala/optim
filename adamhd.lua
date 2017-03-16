@@ -1,4 +1,6 @@
---[[ An implementation of Adam-HD
+--[[
+Hypergradient descent, Adam-HD
+https://arxiv.org/abs/1703.04782
 Atilim Gunes Baydin, University of Oxford, March 2017
 
 ARGS:

@@ -1,4 +1,6 @@
---[[ An implementation of SGD-HD and SGD-Nesterov-HD
+--[[
+Hypergradient descent, SGD-HD and SGD-Nesterov-HD
+https://arxiv.org/abs/1703.04782
 Atilim Gunes Baydin, University of Oxford, March 2017
 
 ARGS:
